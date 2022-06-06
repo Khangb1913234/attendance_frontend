@@ -1,1 +1,0 @@
-import{_ as o,r as s,o as a,c as n,b as r,a as c,w as _,F as e}from"./index.1e4ffe03.js";const d={},l={class:"page"},i=e(" Oops, kh\xF4ng th\u1EC3 t\xECm th\u1EA5y trang. Tr\u1EDF v\u1EC1 "),h=e("trang ch\u1EE7.");function p(u,f){const t=s("router-link");return a(),n("div",l,[r("p",null,[i,c(t,{to:"/"},{default:_(()=>[h]),_:1})])])}var k=o(d,[["render",p]]);export{k as default};
